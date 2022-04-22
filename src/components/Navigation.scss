@@ -1,0 +1,39 @@
+// Navigation.scss
+.tab-bar{
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    height:6.4%;
+    min-height:54px;
+    border-top:1px solid #c1c1c1;
+    background-color:#f7f7f7;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+
+    & a{
+        flex:1;
+        transition:transform 500ms linear 0s;
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        text-decoration:none;
+        color:#c0c1c2;
+    }
+    & a:hover{
+        transform:scale(1.1);
+    }
+    & i{
+        display:block;
+        font-size:22px;
+    }
+    & a span{
+        font-size:12px;
+    }
+
+    & .active{
+        color:#513736;
+    }
+}

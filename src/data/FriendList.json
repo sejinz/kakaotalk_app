@@ -1,0 +1,82 @@
+[
+    {
+        "id":"0",
+        "name":"Sejin",
+        "profileword":"Hi i'm Sejin 💖",
+        "profileimg":"https://i.pinimg.com/564x/a7/35/45/a73545118649120de8adc33ed1e21b4c.jpg",
+        "profilebgimg":"https://i.pinimg.com/564x/8a/2b/f7/8a2bf75928d44096204e7db278086262.jpg",
+        "email":"sj-1118@kakao.com",
+        "lastmsg":"Memo ~~ :)",
+        "lasttime":"11:13"
+    },
+    {
+        "id":"1",
+        "name":"Ryan",
+        "profileword":"Hi i'm ryan 🤍",
+        "profileimg":"https://i.pinimg.com/564x/7c/d0/13/7cd013de9e6b9b3fdf992f5254ddc631.jpg",
+        "profilebgimg":"https://i.pinimg.com/564x/d6/84/80/d68480141439ad095ef5dfa1e3d398d3.jpg",
+        "email":"Ryan@kakao.com",
+        "lastmsg":"Okay!! bye~",
+        "lasttime":"11:15"
+    },
+    {
+        "id":"2",
+        "name":"Apeach",
+        "profileword":"peach peach Apeach :",
+        "profileimg":"https://i.pinimg.com/236x/17/fc/41/17fc4137654e4b5bafa57aa5e79d2e6c.jpg",
+        "profilebgimg":"https://i.pinimg.com/564x/5b/62/7e/5b627e997bca43f888fb6304432c4f53.jpg",
+        "email":"Apeach@kakao.com",
+        "lastmsg":"have a nice day!!",
+        "lasttime":"12:08"
+    },
+    {
+        "id":"3",
+        "name":"Frodo",
+        "profileword":"Neo 💖",
+        "profileimg":"https://i.pinimg.com/564x/7a/e8/df/7ae8df905111ad3f5c25da010621c7dc.jpg",
+        "profilebgimg":"https://i.pinimg.com/564x/01/71/40/017140a3db39f6caa1e3ddb776e471fc.jpg",
+        "email":"Frodo@kakao.com",
+        "lastmsg":"Ha Ha Ha !!",
+        "lasttime":"13:01"
+    },
+    {
+        "id":"4",
+        "name":"Neo",
+        "profileword":"Frodo 🤍",
+        "profileimg":"https://i.pinimg.com/236x/8b/b2/41/8bb24100e7b271273638341d43145172.jpg",
+        "profilebgimg":"https://i.pinimg.com/564x/c8/1f/31/c81f31ede65f425646cd0435b6ba1a41.jpg",
+        "email":"Neo@kakao.com",
+        "lastmsg":" Pit a pat ~~~ !!! ",
+        "lasttime":"13:21"
+    },
+    {
+        "id":"5",
+        "name":"Muzi",
+        "profileword":"NCT 💚",
+        "profileimg":"https://i.pinimg.com/564x/7a/69/5a/7a695a7d73c47b678379ff6be882076e.jpg",
+        "profilebgimg":"https://i.pinimg.com/564x/43/f9/24/43f92425ffb7370a445ef697c8ba69b2.jpg",
+        "email":"Muzi@kakao.com",
+        "lastmsg":"I'm in Glitch Mode",
+        "lasttime":"13:39"
+    },
+    {
+        "id":"6",
+        "name":"Con",
+        "profileword":"Con",
+        "profileimg":"https://i.pinimg.com/736x/60/e6/d4/60e6d45dc120beb285da71149571dd83.jpg",
+        "profilebgimg":"https://i.pinimg.com/564x/6b/58/3a/6b583a42f517437469417ab129b52db0.jpg",
+        "email":"Con@kakao.com",
+        "lastmsg":"Trouble trouble like a miscode",
+        "lasttime":"15:20"
+    },
+    {
+        "id":"7",
+        "name":"Tube",
+        "profileword":"Hi i'm Tube 🎃",
+        "profileimg":"https://i.pinimg.com/564x/3a/ce/40/3ace409aa6c393341a337b0ec7588e8c.jpg",
+        "profilebgimg":"https://i.pinimg.com/564x/9f/f0/96/9ff096757392d89ce253b52e5275e417.jpg",
+        "email":"Tube@email.com",
+        "lastmsg":"Go speeding up",
+        "lasttime":"16:23"
+    }
+]
