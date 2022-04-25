@@ -23,6 +23,7 @@
         color:#c0c1c2;
     }
     & a:hover{
+        color:#513736;
         transform:scale(1.1);
     }
     & i{
@@ -33,7 +34,7 @@
         font-size:12px;
     }
 
-    & .active{
+    & a.active{
         color:#513736;
     }
 }
